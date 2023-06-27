@@ -1,9 +1,6 @@
 # SwaggerAPIExtractor
-这是一个Python脚本，用于从Swagger YAML文件中提取API信息并将其保存到Excel文件中。
+这是一个Python脚本，用于从Swagger YAML文件中提取API信息并将其保存到Excel文件中。脚本将创建一个名为output.xlsx的Excel文件，其中包含从Swagger YAML文件中提取的API信息。
 
-## 功能介绍
-
-脚本将创建一个名为output.xlsx的Excel文件，其中包含从Swagger YAML文件中提取的API信息。
 
 ## 使用方法
 
